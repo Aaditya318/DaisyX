@@ -38,7 +38,7 @@ DAISYX. Deployed Successfully
 
 Thanks for deploying DaisyX
 (C) 2020-2021 by @rungram
-Support Chat is @rungram.
+Support Chat is @run_gram.
 =++---------------------------------------------++=
                        Greetings from dev team :)
     "
